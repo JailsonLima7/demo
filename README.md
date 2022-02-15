@@ -1,5 +1,4 @@
 # Demo 
 
 - Learning GitHub
-- Nova linha de Codigo 
-- Novos codigos 
+- Nova linha de Codigo
